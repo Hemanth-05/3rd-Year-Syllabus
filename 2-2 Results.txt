@@ -1,0 +1,11 @@
+SUBJECTS   -   EXPECTATIONS  -  RESULTS
+
+DBMS LAB  - 9 - 10
+JAVA LAB  - 9 - 10
+OS LAB  - 9 - 10
+COI  - 8 - 8
+BEFA  - 6 - 5
+DBMS  - 7 - 8
+DM  - 6 - 6
+JAVA  - 8 - 7
+OS  - 8 - 6

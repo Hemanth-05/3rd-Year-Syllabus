@@ -1,0 +1,43 @@
+			body {
+                font-family: Verdana;
+				line-height:1.5em;
+			}
+			
+            pre {
+                font-family: Arial;
+			}
+			
+            title1 {
+                text-align:center;
+                font-weight:700;
+			}
+			
+            a {
+                text-decoration:none;
+                color:black;
+			}
+			
+            symbol {
+                font-size:45px;
+                position:fixed;
+                left:95%;
+                top:535px;
+			}
+			
+			article{
+				font-weight:900;
+			}
+			
+			.right{
+				text-align:right;
+			}
+			
+            .bold {
+                font-weight: 700;
+            }
+			
+            .table-title{
+                position:relative;
+                left:220px;
+				}
+			
